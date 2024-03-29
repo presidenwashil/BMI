@@ -25,7 +25,3 @@ Proyek ini adalah aplikasi yang menghitung Indeks Massa Tubuh (BMI) seseorang be
 ## Pengembangan
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan buat pull request Anda.
-
-## Lisensi
-
-Proyek ini berlisensi di bawah MIT License - lihat file [LICENSE.md](LICENSE.md) untuk detail.
