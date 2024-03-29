@@ -6,7 +6,7 @@ Proyek ini adalah aplikasi yang menghitung Indeks Massa Tubuh (BMI) seseorang be
 
 1. Buka aplikasi.
 2. Masukkan berat badan Anda dalam kilogram.
-3. Masukkan tinggi badan Anda dalam meter.
+3. Masukkan tinggi badan Anda dalam centimeter.
 4. Klik tombol 'Hitung'.
 5. Hasil perhitungan BMI Anda akan ditampilkan.
 
