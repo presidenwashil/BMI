@@ -10,6 +10,8 @@ Proyek ini adalah aplikasi yang menghitung Indeks Massa Tubuh (BMI) seseorang be
 4. Klik tombol 'Hitung'.
 5. Hasil perhitungan BMI Anda akan ditampilkan.
 
+![Screenshot Aplikasi](dist/aplikasi.png)
+
 ## Fitur
 
 - Menghitung BMI berdasarkan berat dan tinggi badan.
